@@ -1,5 +1,7 @@
 # React Starter Application — web app boilerplate
 
+React Starter Application — web app boilerplate (React.js, Redux (Ducks), Babel, Webpack)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
