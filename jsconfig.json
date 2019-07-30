@@ -1,12 +1,11 @@
 {
-    "compilerOptions": {
-      "target": "es2017",
-      "allowSyntheticDefaultImports": false,
-      "baseUrl": ".",
-      "paths": {
-        "*": ["src/*"]
-      }
-    },
-    "exclude": ["dist"],
-  }
-  
+  "compilerOptions": {
+    "target": "es2017",
+    "allowSyntheticDefaultImports": false,
+    "baseUrl": "src",
+    "paths": {
+      "*": ["src/*"]
+    }
+  },
+  "exclude": ["dist"]
+}
