@@ -10,10 +10,10 @@
     "redux": "^4.0.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "node scripts/custom-react-scripts.js start",
+    "build": "node scripts/custom-react-scripts.js build",
+    "test": "node scripts/custom-react-scripts.js test",
+    "eject": "node scripts/custom-react-scripts.js eject"
   },
   "eslintConfig": {
     "extends": "react-app"
