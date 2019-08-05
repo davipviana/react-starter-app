@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src",
+        "paths": {
+            "@images/*": ["common/assets/images/*"],
+            "@helpers/*": ["common/helpers"],
+            "@ducks/*": ["common/infrastructure/ducks/*"],
+            "@services/*": ["common/infrastructure/services/*"],
+            "@repositories/*": ["common/infrastructure/repositories/*"]
+        }
+    }
+}
