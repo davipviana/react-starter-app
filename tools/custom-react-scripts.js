@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 'use strict';
 
-const paths = require("./paths");
-const pathAlias = require("./path-alias");
+const paths = require("./lib/paths");
+const pathAlias = require("./lib/path-alias");
 
 const envs = {
     start: process.env.NODE_ENV || "development",
