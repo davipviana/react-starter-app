@@ -16,10 +16,10 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
-    "start": "node scripts/custom-react-scripts.js start",
-    "build": "node scripts/custom-react-scripts.js build",
-    "test": "node scripts/custom-react-scripts.js test",
-    "eject": "node scripts/custom-react-scripts.js eject"
+    "start": "node tools/custom-react-scripts.js start",
+    "build": "node tools/custom-react-scripts.js build",
+    "test": "node tools/custom-react-scripts.js test",
+    "eject": "node tools/custom-react-scripts.js eject"
   },
   "eslintConfig": {
     "extends": "react-app"
